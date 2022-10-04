@@ -1,0 +1,8 @@
+nav {
+    display: block;
+    color: rgb(245, 50, 50);
+    background-color: violet;
+}
+nav:hover {
+    background-color: blueviolet;
+}
